@@ -1,7 +1,6 @@
 # DiscordJSBOT by Ken(Windows)
 
 Little discord self-bot getting updated by me, will be updated regularly.
-
 *Go easy on me it's my first repo :/*
 
 Instructions- 
@@ -9,6 +8,7 @@ Instructions-
 1. Install the most recent version of NodeJS
 2. Open CMD Prompt
 3. Type `npm install discord.js`
+
 
 Install this project as a zipped file.
 Unzip it into any folder, preferably one you made for this bot.
