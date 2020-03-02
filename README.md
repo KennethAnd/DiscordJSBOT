@@ -21,3 +21,6 @@ Double click start.bat and wait for it to display a message, indicating the bot 
 
 
 DISCLAIMERS: YOU ARE FULLY RESPONSIBLE FOR HOW YOU USE THIS PROGRAM, AND UNDERSTAND THAT ANY CLIENT ACCOUNT RUNNING THIS BOT CAN BE TERMINATED BY DISCORD(CLIENT LOGIN NOW DEPRECATED AS OF DISCORD.JS 12). BOT IS MADE FOR EDUCATIONAL PURPOSES ONLY, HENCE ITS SIMPLICITY. FOR ANY INQUIRIES, PLEASE RESPOND BELOW.
+
+**PS-**
+*I initially started this project as a weak an ineffective selfbot program for educational purposes(to help people learn the Discord.JS thing, but since Discord.JS 12.0.1 made user token login deprecated, now it's up as a little education piece, and for peoples' actual bots, if they want it).*
