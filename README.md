@@ -1,7 +1,7 @@
 # DiscordJSBOT by Ken(Windows)
 
 Little discord bot getting updated by me, will be updated regularly.
-*Discord bot works with actual bot token, not selfbots. *
+*Discord bot works with actual bot token, not selfbots.*
 
 Instructions- 
 
